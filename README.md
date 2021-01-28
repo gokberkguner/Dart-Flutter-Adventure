@@ -4,4 +4,8 @@ Introduction to MaterialApp and Scaffold widgets, FloatingActionButton and mater
 
 ![dart-flutter-basic-example](https://user-images.githubusercontent.com/76449375/106041765-48cf6880-60ed-11eb-9d25-f814cb5d0fe2.png)
 
+Asset, Network and Circle Avatar Image Types, Using FadeinImage and IntrinsicHeight, FlutterLogo and PlaceHolder Widget features, Basic Button Types.
+
+
+
 ### WARNING: This repository has been created just for seeing my progress.
