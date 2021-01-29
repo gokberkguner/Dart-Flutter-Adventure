@@ -22,9 +22,12 @@ void main() {
       ),
       body: Column(
         children: <Widget>[
-          Text(
-            "Resim ve Buton Türleri",
-            style: TextStyle(fontSize: 24.0, fontWeight: FontWeight.bold),
+          Container(
+            child: Text(
+              "Images and Button Types",
+              style: TextStyle(fontSize: 24.0, fontWeight: FontWeight.bold),
+            ),
+            margin: EdgeInsets.all(15.0),
           ),
           IntrinsicHeight(
             child: Row(
