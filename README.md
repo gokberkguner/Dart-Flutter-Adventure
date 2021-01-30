@@ -18,6 +18,8 @@ Cards, ListTile Divider for Lists, Basic Usage of Listview and List.map Method. 
 
 ItemBuilder and Seperator Builder for RAM-Friendly Lists. (You can see that scrool move and separating how it's like.)
 
+**NOTE: I continued to use main4.dart for these operations. It is enough to just specify the class that we will define in the body: part.**
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/76449375/106366782-52580b00-634f-11eb-82e3-080cedd994ba.gif)
 
 
