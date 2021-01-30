@@ -16,6 +16,11 @@ Cards, ListTile Divider for Lists, Basic Usage of Listview and List.map Method. 
 
 ![Screenshot 2021-01-30 191616](https://user-images.githubusercontent.com/76449375/106361777-8243e600-6330-11eb-8965-64295afa44d4.png)
 
+ItemBuilder and Seperator Builder for RAM-Friendly Lists. (You can see that scrool move and separating how it's like.)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76449375/106366782-52580b00-634f-11eb-82e3-080cedd994ba.gif)
+
+
 
 
 
