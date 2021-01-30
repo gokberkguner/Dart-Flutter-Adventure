@@ -1,5 +1,7 @@
 # Introduction to Dart and Flutter
 
+### WARNING: This repository has been created just for seeing my progress.
+
 Introduction to MaterialApp and Scaffold widgets, FloatingActionButton and material design rules, Container Widget and features, Alignment Class and Margin - Padding parameters, MainAxis, CrossAxis, Expanded Widget and Flex features. 
 
 ![dart-flutter-basic-example](https://user-images.githubusercontent.com/76449375/106367110-63098080-6351-11eb-9c6c-a9e5a597d491.png)
@@ -28,4 +30,4 @@ ItemBuilder and Seperator Builder for RAM-Friendly Lists. (You can see that scro
 
 
 
-### WARNING: This repository has been created just for seeing my progress.
+
