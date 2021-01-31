@@ -26,7 +26,11 @@
 
 - List Click Events and Fluttertoast Package Download, Using AlertDialog and SingleChildScrollView when List Element is clicked.
 
-**NOTE: This section is a continuation of the previous section. It is the updated version of the previous part under efficientListExample2 with some concepts.**
+**NOTE: This section is a continuation of the previous section. It is the updated version of the previous part under efficientListExample2 with some concepts. The topics I mentioned in before the note.**
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76449375/106390083-c4842a80-63f7-11eb-800a-d33ab653148c.gif)
+
+
 
 
 
