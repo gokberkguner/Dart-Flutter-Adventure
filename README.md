@@ -30,6 +30,12 @@
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76449375/106390083-c4842a80-63f7-11eb-800a-d33ab653148c.gif)
 
+GridView Usages and Types
+
+![Screenshot 2021-02-01 195800](https://user-images.githubusercontent.com/76449375/106491703-2f9d3200-64c8-11eb-84bb-64a7a8093e39.png)
+
+
+
 
 
 
