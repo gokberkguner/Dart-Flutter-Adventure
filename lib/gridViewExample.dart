@@ -27,6 +27,9 @@ class GridVievExample extends StatelessWidget {
 }
 
 /*
+
+*****************************************************************************
+
 GridView.count(
       crossAxisCount: 2,
       scrollDirection: Axis.horizontal,
@@ -59,8 +62,7 @@ GridView.count(
       ],
     );
 
-
-  *****************************************************************************
+*****************************************************************************
 
     GridView.extent(
       maxCrossAxisExtent: 500,
